@@ -1,0 +1,21 @@
+{
+  "name": "claroline-tinymce-accordion",
+  "version": "1.0.0",
+  "description": "Accordion plugin for the tinymce editor of the Claroline platform",
+  "main": "plugin.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iCAPLyon1/tinymceAccordionPlugin.git"
+  },
+  "keywords": [
+    "accordion",
+    "tinymce",
+    "claroline"
+  ],
+  "author": "Panos <ptsavdar@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iCAPLyon1/tinymceAccordionPlugin/issues"
+  },
+  "homepage": "https://github.com/iCAPLyon1/tinymceAccordionPlugin#readme"
+}
